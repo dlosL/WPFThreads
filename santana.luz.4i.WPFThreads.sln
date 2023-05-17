@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "santana.luz.4i.WPFThreads", "santana.luz.4i.WPFThreads.csproj", "{2ECA6B48-4120-4819-9B61-795A59178F3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ECA6B48-4120-4819-9B61-795A59178F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ECA6B48-4120-4819-9B61-795A59178F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ECA6B48-4120-4819-9B61-795A59178F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ECA6B48-4120-4819-9B61-795A59178F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFB4529B-37CE-4936-BA41-45C686CD7089}
+	EndGlobalSection
+EndGlobal
